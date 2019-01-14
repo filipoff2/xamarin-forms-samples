@@ -21,4 +21,8 @@
     </EmbeddedResource>
   </ItemGroup>
 
+  <Target Name="PreBuild" BeforeTargets="PreBuildEvent">
+    <Exec Command="gulp" />
+  </Target>
+
 </Project>
