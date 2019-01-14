@@ -1,45 +1,36 @@
-﻿navigationpage {
-    -xf-bar-background-color: lightgray;
+navigationpage {
+  -xf-bar-background-color: lightgray;
 }
-
-^contentpage {
-    background-color: lightgray;
+ ^contentpage {
+  background-color: lightgray;
 }
-
 #listView {
-    background-color: lightgray;
+  background-color: lightgray;
 }
-
 stacklayout {
-    margin: 20;
+  margin: 20;
 }
-
 .mainPageTitle {
-    font-style: bold;
-    font-size: medium;
+  font-style: bold;
+  font-size: medium;
 }
-
 .mainPageSubtitle {
-    margin-top: 15;
+  margin-top: 15;
 }
-
 .detailPageTitle {
-    font-style: bold;
-    font-size: medium;
-    text-align: center;
+  font-style: bold;
+  font-size: medium;
+  text-align: center;
 }
-
 .detailPageSubtitle {
-    text-align: center;
-    font-style: italic;
+  text-align: center;
+  font-style: italic;
 }
-
 listview image {
-    height: 60;
-    width: 60;
+  height: 60;
+  width: 60;
 }
-
-stacklayout>image {
-    height: 200;
-    width: 200;
+stacklayout > image {
+  height: 200;
+  width: 200;
 }
