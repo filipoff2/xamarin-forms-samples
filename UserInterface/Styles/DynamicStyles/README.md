@@ -9,3 +9,8 @@ Author
 ------
 
 David Britch
+------------------------------
+Less to CSS
+download https://nodejs.org/en/download/
+run cmd in directory
+>npm install  
