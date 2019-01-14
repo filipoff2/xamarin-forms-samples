@@ -9,3 +9,15 @@ Author
 ------
 
 David Britch
+==============
+update Monkey App (LASS to CSS)
+Enables using variables in CSS = LESS  
+
+@BackgroundColor: lightgray;
+@ListViewImageSize: 60;
+@StackLayourImageSize: @ListViewImageSize + 140;
+
+Author
+------
+Boguslaw + Bohdan
+ 
