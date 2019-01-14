@@ -10,7 +10,7 @@ Author
 
 David Britch
 ==============
-update Monkey App (LASS to CSS)
+update Monkey App (LESS to CSS)
 Enables using variables in CSS = LESS  
 
 @BackgroundColor: lightgray;
